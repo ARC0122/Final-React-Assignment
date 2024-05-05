@@ -1,0 +1,9 @@
+.topbar {
+  display: flex;
+  flex-direction: column;
+  background: rgb(246, 238, 157);
+}
+.tabs {
+  display: flex;
+  margin: 10px 30px 50px 30px;
+}
